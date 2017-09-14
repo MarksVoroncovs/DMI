@@ -1,3 +1,5 @@
+    1  VirtualBox --startvm XP
+    2  warf foks
     3  frefox
     4  firefox
     5  ls la
@@ -68,3 +70,68 @@
    70  ls -l
    71  cat 
    72  history > history.txt
+   73  ls -l
+   74  nano history.txt
+   75  ls -l
+   76  cat history.txt
+   77  git add .
+   78  git commit -m "20170914_15-45"
+   79  git push origin master
+   80  man exit
+   81  echo [option(s)] [string(s)]
+   82  Tecmint is a community of Linux Nerds 
+   83  $ x=10
+   84  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds" 
+   85  TecmintisacommunityofLinuxNerds 
+   86  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds" 
+   87  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds" 
+   88  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+   89  echo -e "Tecmint \ris a community of Linux Nerds" 
+   90  echo -n "Tecmint is a community of Linux Nerds"
+   91  echo -e "Tecmint is a community of \aLinux Nerds"
+   92  echo *
+   93  echo *.jpeg 
+   94  network.jpeg 
+   95  echo *.jpeg 
+   96  network.jpeg 
+   97  echo *.jpeg
+   98  echo "Test Page" > testpage 
+   99  ## Check Content
+  100  avi@tecmint:~$ cat testpage 
+  101  Test Page 
+  102  echo "Test Page" > testpage
+  103  ## Check Content
+  104  avi@tecmint:~$ cat testpage 
+  105  esho *
+  106  pwd
+  107  cp histtory.txt a.txt
+  108  cp history.txt a.txt
+  109  ls -l
+  110  cp history.txt a.txt
+  111  cp history.txt ~/al.txt
+  112  cp history.txt /home/user/a2.txt
+  113  ../a3.txt
+  114  ls
+  115  cd ..
+  116  ls
+  117  darbis cd/
+  118  pwd
+  119  mv /home/user/*.txt ~/darbi/
+  120  cd
+  121  ls
+  122  cd darbi/
+  123  ls
+  124  ls -l
+  125  darbis mv a*.txt . /apakshdarbi/
+  126  ls
+  127  mv a* .txt ./apakshdarbi/
+  128  ls
+  129  rmdir apakshdarbi/
+  130  man rmdir
+  131  rmdir apakshdarbi/
+  132  nano history
+  133  nano history.txt
+  134  ls
+  135  pwd
+  136  ls -la
+  137  history >history.txt
