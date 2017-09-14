@@ -1,5 +1,3 @@
-    1  VirtualBox --startvm XP
-    2  warf foks
     3  frefox
     4  firefox
     5  ls la
@@ -43,3 +41,30 @@
    43  history
    44  history > history.etx
    45  history > history.txt
+   46  pwd
+   47  history > history.etx
+   48  ls
+   49  pwd
+   50  cathistory.txt
+   51  cat history.txt
+   52  git init
+   53  darbis git init
+   54  emd
+   55  git init
+   56  git add
+   57  git add .
+   58  git config --global user.email MarkVoroncov
+   59  ls
+   60  git commit -m "20170914_15_55"
+   61  git remote add origin
+   62  git remote addorigin https://github.com/MarksVoroncovs/DMI.git
+   63  git push origin master
+   64  git remote add origin https://github.com/MarksVoroncovs/DMI.git
+   65  git push origin master
+   66  git psh origin master
+   67  git push origin master
+   68  pwdf
+   69  history
+   70  ls -l
+   71  cat 
+   72  history > history.txt
