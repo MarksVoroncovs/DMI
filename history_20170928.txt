@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  echo $0
+    3  VirtualBox --startvm XP
+    4  history
+    5  exist
+    6  nona shell_exple.sh
+    7  nano shell_exple.sh
+    8  VirtualBox --startvm XP
+    9  history
+   10  exist
+   11  nano shell_exple.sh
+   12  ./shell_exple.sh
+   13  cat  ./shell_exple.sh
+   14  echo $#
+   15* 
+   16  ./shell_exple.sh
+   17  ./shell_exple.sh argl
+   18  ./shell_exple.sh argl2
+   19  ./shell_exple.sh arg2
+   20  ./shell_exple.sh argl arg2
+   21  ./shell_exple.sh argl arg3
+   22  ./shell_exple.sh argl arg2 arg3
+   23  echo $*
+   24  nano shell_exple.sh
+   25  ./shell_exple.sh
+   26  nano shell_exple.sh
+   27  ./shell_exple.sh
+   28  ./shell_exple.sh arg1
+   29  ./shell_exple.sh arg1 arg2
+   30  echo $*
+   31  ./shell_exple.sh
+   32  ./shell_exple.sh arg1
+   33  ./shell_exple.sh arg1 arg2
+   34  echo $0
+   35  echo $@
+   36  nano shell_exple.sh
+   37  ./shell_exple.sh
+   38  ./shell_exple.sh arg1
+   39  ./shell_exple.sh arg1 arg2
+   40  ls -la
+   41  nano shell_exple.sh
+   42  ./shell_exple.sh arg1 arg2
+   43  echo $?
+   44  nano shell_exple.sh
+   45  ./shell_exple.sh arg1 arg2
+   46  ./shell_exple.sh arg1
+   47  nano shell_exple.sh
+   48  ./shell_exple.sh 
+   49  nano shell_exple.sh
+   50  ./shell_exple.sh 
+   51  nano shell_exple.sh
+   52  ./shell_exple.sh 
+   53  nano shell_exple.sh
+   54  ./shell_exple.sh 
+   55  nano shell_exple.sh
+   56  ./shell_exple.sh 
+   57  nano shell_exple.sh
+   58  ./shell_exple.sh 
+   59  echo $$
+   60* 
+   61  ./shell_exple.sh 
+   62  echo $!
+   63  history
+   64  nano shell_exple.sh
+   65  ./shell_exple.sh 
+   66  cd ..
+   67  nano git-upload
+   68  ls -la
+   69  nano git-upload
+   70  history > history_20170928.txt
