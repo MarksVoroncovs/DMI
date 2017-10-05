@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/MarksVoroncovs/DMI.git
+    3  ls -l
+    4  cd DNI
+    5  cd DMI
+    6  nano
+    7  ls -lt
+    8  ./shell_operators.sh
+    9  ./chell_operators.sh
+   10  ls -la
+   11  nano teste 1
+   12  nano  ./chell_operators.sh
+   13  ./chell_operators.sh
+   14  nano  ./shell_operators.sh
+   15  ./shell_operators.sh
+   16  nano ./shell_operators.sh
+   17  ./shell_operators.sh
+   18  nano ./shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano ./shell_operators.sh
+   21  ./shell_operators.sh
+   22  nano ./shell_operators.sh
+   23  ./shell_operators.sh
+   24  ls -l
+   25  chmod 744 shell_operators.sh 
+   26  ls -l
+   27  ./shell_operators.sh
+   28  ls -l
+   29  nano ./shell_operators.sh
+   30  ./shell_operators.sh
+   31  nano ./shell_operators.sh
+   32  ./shell_operators.sh
+   33  nano ./shell_operators.sh
+   34  ./shell_operators.sh
+   35  nano ./shell_operators.sh
+   36  ./shell_operators.sh
+   37  nano ./shell_operators.sh
+   38  ./shell_operators.sh
+   39  nano ./shell_operators.sh
+   40  ./shell_operators.sh
+   41  nano ./shell_operators.sh
+   42  ./shell_operators.sh
+   43  nano ./shell_operators.sh
+   44  ./shell_operators.sh
+   45  nano ./shell_operators.sh
+   46  ./shell_operators.sh
+   47  nano ./shell_operators.sh
+   48  ./shell_operators.sh
+   49  nano ./shell_operators.sh
+   50  ./shell_operators.sh
+   51  nano ./shell_operators.sh
+   52  ./shell_operators.sh
+   53  nano ./shell_operators.sh
+   54  ./shell_operators.sh
+   55  nano ./shell_operators.sh
+   56  history > history_20171005.txt
+   57  nabi git-upload
+   58  history > history_20171005.txt
