@@ -1,0 +1,2 @@
+#!/bin/bach
+if [ $a -eq $b ]

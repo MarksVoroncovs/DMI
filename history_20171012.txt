@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  ferefox &
+    3  ferifox &
+    4  firefox &
+    5  git clone https://github.com/andispizelis/DMI.git
+    6  ls -l
+    7  cd DMI
+    8  ls -l
+    9  cd ..
+   10  rm -rf DMI
+   11  ls -l
+   12  cd MarksVoroncovs/
+   13  ls -l
+   14  cd ..
+   15  mkdir MarksVoroncovs/
+   16  rmdir  MarksVoroncovs/
+   17  cd MarksVoroncovs/
+   18  ls -l
+   19  cd ..
+   20  rm -rf MarksVoroncovs/
+   21* 
+   22  git clone https://github.com/MarksVoroncovs/DMI.git
+   23* 
+   24  c d DMI
+   25  cd DMI
+   26  ls -l
+   27  nano
+   28  pwd
+   29  nano shell_relational_operators_commants.sh
+   30  lsc -l
+   31  ls -l
+   32  ls -la
+   33  shell_relational_operators_commants.sh
+   34  ./shell_relational_operators_commants.sh
+   35  chmod 744 ./shell_relational_operators_commants.sh
+   36  ./shell_relational_operators_commants.sh
+   37  shmod 744 ./shell_relational_operators_commants.sh
+   38  chmod 744 ./shell_relational_operators_commants.sh
+   39  ./shell_relational_operators_commants.sh
+   40  nano  ./shell_relational_operators_commants.sh
+   41  chmod 744 ./shell_relational_operators_commants.sh 
+   42  ls -l
+   43  ./shell_relational_operators_commants.sh
+   44  nano  ./shell_relational_operators_commants.sh
+   45  ./shell_relational_operators_commants.sh
+   46  nano  ./shell_relational_operators_commants.sh
+   47  ./shell_relational_operators_commants.sh
+   48  nano git_upload
+   49  history > history_20171012.txt
