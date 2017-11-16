@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/MarksVoroncovs/DMI
+    4  pwd
+    5  ls -l
+    6  cd DMI
+    7  ls -l
+    8  cd PYTHON
+    9  ls -l
+   10  nano sin-caur_summa_ver1
+   11  python sin-caur_summa_ver1
+   12  nano sin-caur_summa_ver1
+   13  python sin-caur_summa_ver1
+   14  nano sin-caur_summa_ver1
+   15  nano sin-caur_summa_ver1.py
+   16  python sin-caur_summa_ver1.py
+   17  nano sin-caur_summa_ver1.py
+   18  python sin-caur_summa_ver1.py
+   19  2
+   20  python sin-caur_summa_ver1.py
+   21  nano sin-caur_summa_ver1.py
+   22  python sin-caur_summa_ver1.py
+   23  nano sin-caur_summa_ver1.py
+   24  python sin-caur_summa_ver1.py
+   25  0
+   26  3.
+   27  2
+   28  22
+   29  nano sin-caur_summa_ver1.py
+   30  python sin-caur_summa_ver1.py
+   31  nano sin-caur_summa_ver1.py
+   32  python sin-caur_summa_ver1.py
+   33* 
+   34  cp sin-caur_summa_ver1.py sin_caur_summu_ver2.py
+   35  nano sin-caur_summa_ver2.py
+   36  cp sin-caur_summa_ver1.py sin_caur_summa_ver2.py
+   37  nano sin-caur_summa_ver2.py
+   38  cp sin-caur_summa_ver1.py sin-caur_summa_ver2.py
+   39  nano sin-caur_summa_ver2.py
+   40  python sin-caur_summa_ver2.py
+   41  nano sin-caur_summa_ver2.py
+   42  python sin-caur_summa_ver2.py
+   43  nano sin-caur_summa_ver2.py
+   44  python sin-caur_summa_ver2.py
+   45  nano sin-caur_summa_ver2.py
+   46  python sin-caur_summa_ver2.py
+   47  nano sin-caur_summa_ver2.py
+   48  python sin-caur_summa_ver2.py
+   49  nano sin-caur_summa_ver2.py
+   50  python sin-caur_summa_ver2.py
+   51  nano sin-caur_summa_ver2.py
+   52  cp sin-caur_summa_ver2.py sin-caur_summa_ver3.py
+   53  nano sin-caur_summa_ver3.py
+   54  python sin-caur_summa_ver3.py
+   55  nano sin-caur_summa_ver3.py
+   56  python sin-caur_summa_ver3.py
+   57  nano sin-caur_summa_ver3.py
+   58  cd ..
+   59  history > history
+   60  history > history_20171115
