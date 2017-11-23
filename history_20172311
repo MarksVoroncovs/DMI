@@ -1,0 +1,90 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/andispizelis/DMI.git
+    4  ls
+    5  cd DMI
+    6  ls
+    7  cd Python/
+    8  ls
+    9  nano sin05x.py
+   10  python sin05x.py
+   11  nano sin05x.py
+   12  python sin05x.py
+   13  nano sin05x.py
+   14  python sin05x.py
+   15  nano sin05x.py
+   16  python sin05x.py
+   17  nano sin05x.py
+   18  idle &
+   19  nano sin05x.py
+   20  python sin05x.py
+   21  nano sin05x.py
+   22  python sin05x.py
+   23  ls
+   24  python sin_caur_summ.py
+   25  nano sin_caur_summ.py
+   26  nano sin05x.py
+   27  python sin05x.py
+   28  nano sin05x.py
+   29  python sin05x.py
+   30  nano sin05x.py
+   31  python sin05x.py
+   32  nano sin05x.py
+   33  python sin05x.py
+   34  nano sin05x.py
+   35  python sin05x.py
+   36  nano sin05x.py
+   37  python sin05x.py
+   38  nano sin05x.py
+   39  python sin05x.py
+   40  nano sin05x.py
+   41  nano tabula.py
+   42  python tabula.py
+   43  nano sin05x.py
+   44  python tabula.py
+   45  nano tabula.py
+   46  ls
+   47  nano tabula.py
+   48  python tabula.py
+   49  nano tabula.py
+   50  python tabula.py
+   51  nano tabula.py
+   52  python tabula.py
+   53  nano tabula.py
+   54  python tabula.py
+   55  nano tabula.py
+   56  python tabula.py
+   57  nano tabula.py
+   58  nano sin05x.py
+   59  nano tabula.py
+   60  python tabula.py
+   61  nano tabula.py
+   62  nano sin05x.py
+   63  nano tabula.py
+   64  python tabula.py
+   65  nano tabula.py
+   66  python tabula.py
+   67  nano tabula.py
+   68  python tabula.py
+   69  nano tabula.py
+   70  python tabula.py
+   71  nano tabula.py
+   72  python tabula.py
+   73  nano tabula.py
+   74  cd ..
+   75  history
+   76  git-upload 20171123_9:50
+   77  ./ git-upload 20171123_9:50
+   78  ls
+   79  ls -l
+   80  pwd
+   81  PATH:$PATH:/home/user/DMI
+   82  PATH=$PATH:/home/user/DMI
+   83  git-upload 20171123_9:50
+   84  su sc
+   85  idle
+   86  exit
+   87  ls
+   88  idle &
+   89  cd ..
+   90  history > history_20172311
