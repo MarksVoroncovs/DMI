@@ -37,3 +37,4 @@
    37  idle &
    38  cd ..
    39  history > history
+   40  history > history_30_11_2017
