@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/MarksVoroncovs/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  ls -l
+    6  la -l
+    7  dfgdf
+    8  idla &
+    9  idle &
+   10  cd ..
+   11  history > history 2017_12_07
+   12  history > history_2017_12_07 
