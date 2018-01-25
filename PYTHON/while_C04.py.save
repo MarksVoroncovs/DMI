@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+a = input("lietotaj, ludzu, ievadi beigu skaitli: ")
+
+k = 1
+while k <= a:
+	print "k mainiga karteja vertiba ir: %d"%(k)
