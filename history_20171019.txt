@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/MarksVoroncovs/DMI
+    3  ls -la
+    4  la -ls
+    5  cd DMI
+    6  cd FINAL
+    7  pwd
+    8  ls -la
+    9  nano index.html
+   10  cd ..
+   11  VirtualBox --startvm XP
+   12  cd FINAL
+   13  nano index.html
+   14  hisory
+   15  histori
+   16  ls -l
+   17  cd ..
+   18  history
+   19  pwd
+   20  ls -l
+   21  cd 2017_2018_00/
+   22  pwd
+   23  cd temp/
+   24  nano dialogs 
+   25  cat  dialogs 
+   26  chmod 744 dialogs
+   27  ./dialogs
+   28  nano dialogs
+   29  cp dialogs a_VS_b_M
+   30  ls -l
+   31  nano  a_VS_b_M
+   32  ./ a_VS_b_M
+   33  ls -la
+   34  mv * ../
+   35  cd ..
+   36  history > history_20171019.txt
+   37  nano git-upload
+   38  ./git-upload
+   39  ls -l
+   40  ./git-upload
+   41  history > history_20171019.txt
